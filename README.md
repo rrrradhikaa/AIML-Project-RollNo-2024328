@@ -20,10 +20,6 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset  - **Rows / Co
   
 ## Results - **Model:** Logistic Regression - **Key Metric(s):** Accuracy = 0.83, Recall = 0.84  
   
-## Screenshots 
-[Add 2-4 images from your Images/ folder here, for example:] 
-![EDA Chart](Images/eda_chart.png) 
-![Model Evaluation](Images/evaluation_chart.png) 
   
 ## Future Improvements - Explore Advanced Models: Implement Random Forest and XGBoost classifiers to compare their performance with Logistic Regression and improve prediction accuracy. - Hyperparameter Tuning: Use GridSearchCV and cross-validation to optimize model performance, particularly recall, for better heart disease detection.
 ## Author 
